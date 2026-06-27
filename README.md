@@ -59,9 +59,9 @@ Berikut adalah beberapa proyek yang pernah saya kerjakan:
 17. Hari ini 21 Agustus 2024 baru dapat kabar kalau akun fb saya sudah menghasilkan $0.04 USD
    
 ## Gambar
-<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fvividbeloved.github.io">
+<img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fescindo.github.io">
 
-![Logo GitHub](https://img.shields.io/github/followers/vividbeloved)
+![Logo GitHub](https://img.shields.io/github/followers/escindo)
 
 <details>
   <summary>
