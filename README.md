@@ -332,15 +332,15 @@ Sumber : https://www.blockchain.com/explorer/transactions/btc/f61be88b48af826c90
 8. Kamis Paing 9 Juli  2026 ini adalah kode untuk mt5
 
 ```jsx
-   //+---------------------------------------------------------------+
+//+------------------------------------------------------------------+
 //|                                               GrafikTabranij.mq5 |
-//|                                 Copyright 2026, MOCHAMAD TABRANI |
+//|                                       Ruang Saldo Copyright 2026 |
 //|                                          https://cindo.pages.dev |
 //+------------------------------------------------------------------+
-#property copyright   "MOCHAMAD TABRANI (c) 2026, Ringin Bambu"
+#property copyright   "RUANG SALDO (c) 2026"
 #property link        "https://cindo.pages.dev"
 #property version     "0.01"
-#property description "EA GT Trading - Komando Profit & Keamanan"
+#property description "EA GT Pesaldo - Komando Profit & Keamanan"
 #property description "========================================================"
 #property description "EA Trading ini beroperasi berdasarkan Sinyal GT Besar."
 #property description "Didesain spesifik untuk volatilitas tinggi (BTCUSD, XAUUSD, GOLDmicro)."
